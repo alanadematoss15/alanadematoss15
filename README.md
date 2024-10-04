@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas Vindas ao meu perfil 🖤
 
-<!--
-**alanadematoss15/alanadematoss15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Alana de Matos.S
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo nalínguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Entrar em contato comigo 📧
+  
+scalco.alana@escola.pr.gov.br
+
+@al4n4.m4tos 
+
+![](https://media1.tenor.com/m/ZjMt0YiJYWMAAAAC/dancing-cat-dance.gif)
